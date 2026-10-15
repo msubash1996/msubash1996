@@ -105,6 +105,15 @@ Guides on [SNM Insights](https://snmdigitechconsulting.com/blog): Odoo 20 releas
 
 ---
 
+## Notes for Odoo developers
+
+- [Odoo 19 → 20 porting cheat sheet](https://gist.github.com/msubash1996/c91cfdaaaa550a1d476cc67b29b48d0c): security (`ir.access`), ORM, QWeb `t-call`, OWL 3, portal
+- [Odoo 16 → 20 differences for module authors](https://gist.github.com/msubash1996/8f94c2e1feb8b4c719fe6d8c8d6f704d): views, cron, products, groups, constraints, icons
+- [What apps.odoo.com strips from your app page](https://gist.github.com/msubash1996/2e7cca04d9f38e093a886b479a251ca0), with fix and check scripts
+- [Custom dashboard won't scroll in Odoo 17-20](https://gist.github.com/msubash1996/42a76af90a96580569829e5167a3bb89): the `.o_action` overflow fix
+
+---
+
 ## ERPNext
 
 - [commission_management](https://github.com/msubash1996/commission_management): sales commission plans, accruals, clawbacks and payouts
