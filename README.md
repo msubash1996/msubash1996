@@ -10,6 +10,7 @@
   <a href="https://apps.odoo.com/apps/browse?author=SNM%20Digitech%20and%20Consulting"><img src="https://img.shields.io/badge/Odoo_Apps_Store-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Apps Store"></a>
   <a href="https://www.linkedin.com/in/subash-magar-a198b9264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.upwork.com/freelancers/subashm5"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+  <a href="https://huggingface.co/msubash96"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="https://snmdigitechconsulting.com/appointment"><img src="https://img.shields.io/badge/Book_a_call-3D8361?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"></a>
 </div>
 
@@ -138,6 +139,7 @@ Guides on [SNM Insights](https://snmdigitechconsulting.com/blog): Odoo 20 releas
 - [Odoo 16 → 20 differences for module authors](https://gist.github.com/msubash1996/8f94c2e1feb8b4c719fe6d8c8d6f704d): views, cron, products, groups, constraints, icons
 - [What apps.odoo.com strips from your app page](https://gist.github.com/msubash1996/2e7cca04d9f38e093a886b479a251ca0), with fix and check scripts
 - [Custom dashboard won't scroll in Odoo 17-20](https://gist.github.com/msubash1996/42a76af90a96580569829e5167a3bb89): the `.o_action` overflow fix
+- [Odoo model and field changes, 16 → 20](https://huggingface.co/datasets/msubash96/odoo-model-changes): open dataset on Hugging Face, 8,662 changes across four upgrade steps
 
 ---
 
